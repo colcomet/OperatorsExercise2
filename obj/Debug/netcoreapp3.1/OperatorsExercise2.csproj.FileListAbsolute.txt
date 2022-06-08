@@ -1,0 +1,14 @@
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\bin\Debug\netcoreapp3.1\OperatorsExercise2.exe
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\bin\Debug\netcoreapp3.1\OperatorsExercise2.deps.json
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\bin\Debug\netcoreapp3.1\OperatorsExercise2.runtimeconfig.json
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\bin\Debug\netcoreapp3.1\OperatorsExercise2.runtimeconfig.dev.json
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\bin\Debug\netcoreapp3.1\OperatorsExercise2.dll
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\bin\Debug\netcoreapp3.1\OperatorsExercise2.pdb
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\obj\Debug\netcoreapp3.1\OperatorsExercise2.csproj.AssemblyReference.cache
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\obj\Debug\netcoreapp3.1\OperatorsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\obj\Debug\netcoreapp3.1\OperatorsExercise2.AssemblyInfoInputs.cache
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\obj\Debug\netcoreapp3.1\OperatorsExercise2.AssemblyInfo.cs
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\obj\Debug\netcoreapp3.1\OperatorsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\obj\Debug\netcoreapp3.1\OperatorsExercise2.dll
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\obj\Debug\netcoreapp3.1\OperatorsExercise2.pdb
+C:\Users\drewb\OneDrive\repos\OperatorsExcersize2\OperatorsExercise2\obj\Debug\netcoreapp3.1\OperatorsExercise2.genruntimeconfig.cache
